@@ -278,9 +278,11 @@ class: middle, center
 # Final message
 ## The most important thing
 
+__What can I do to contribute?__
 
-<video width="560" height="400" preload="none" controls="controls" autoplay>
-<source src="Presentation_Gustavo_files/figure-html/postdoc_me.mp4" type="video/mp4">
-</video>
+
+<!-- <video width="560" height="400" preload="none" controls="controls" autoplay> -->
+<!-- <source src="Presentation_Gustavo_files/figure-html/postdoc_me.mp4" type="video/mp4"> -->
+<!-- </video> -->
 
 
