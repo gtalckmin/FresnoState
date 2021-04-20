@@ -1,0 +1,44 @@
+h1{
+color: green    
+}
+
+h2{
+        color:purple;
+}
+    .crop {
+        width: 60%;
+        height: 60%;
+        overflow: hidden;
+    }
+
+    .crop img {
+        width: 400px;
+        height: 300px;
+        margin: -175px 0 0 -100px;
+    }
+    
+    .with-bg-size {
+  width: 200px;
+  height: 100px;
+  background-position: center;
+  /* Make the background image cover the area of the <div>, and clip the excess */
+  background-size: cover;
+}
+
+
+browsable(
+   tagList(
+      list(
+         tags$head(
+            tags$style(
+               ".leaflet .legend {
+                 line-height: 30px;
+                 font-size: 10px;
+                 }",
+              ".leaflet .legend i{
+                width: 60px;
+                height: 60px;
+                 }"
+            )
+         ),
+       leaf)))
